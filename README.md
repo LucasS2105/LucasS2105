@@ -2,7 +2,7 @@
 
 ---
 
-### Olá! Sou estudante de Engenharia Industrial Elétrica 👋
+### Estudante de Engenharia Industrial Elétrica & DEV nas horas vagas
 
 🎓 **IFBA** — Instituto Federal de Educação, Ciência e Tecnologia da Bahia  
 📍 Salvador, BA · Brasil  
