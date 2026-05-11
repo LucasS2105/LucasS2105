@@ -2,10 +2,44 @@
 
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasS2105&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS2105&layout=compact&langs_count=7&theme=gruvbox"/>
-</p>
+### Olá! Sou estudante de Engenharia Industrial Elétrica 👋
+
+🎓 **IFBA** — Instituto Federal de Educação, Ciência e Tecnologia da Bahia  
+📍 Salvador, BA · Brasil  
+
+---
+
+Atuo na interseção entre **hardware e software**, com foco em automação, sistemas embarcados e otimização de processos industriais. Tenho experiência prática em montagem de sistemas, interpretação de desenhos técnicos e desenvolvimento de projetos conforme normas técnicas.
+
+---
+
+## 🔧 Stack Técnico
+
+**Linguagens**
+`Python` `C` `C++` `Java` `JavaScript`
+
+**Plataformas & Frameworks**
+`Arduino` `Raspberry Pi` `ROS 2`
+
+**CAD & Modelagem**
+`AutoCAD` `SolidWorks` `Revit` `Inventor`
+
+---
+
+## 🤖 Áreas de Atuação
+
+- ⚙️ Automação industrial e sistemas embarcados
+- 🤖 Robótica educacional e desenvolvimento com ROS 2
+- 🧩 Integração software-hardware
+- 📐 Modelagem e projetos técnicos (CAD/BIM)
+- 📊 Melhoria e padronização de processos industriais
+- 🏢 Gestão estratégica e liderança organizacional
+
+---
+
+## 🚀 Sobre mim
+
+Além da atuação técnica, exerci o cargo de **Diretor Presidente em Empresa Júnior**, onde liderei gestão organizacional, relacionamento com stakeholders e prospecção B2B. Também contribuo com a formação de novos engenheiros por meio da **robótica educacional e docência**.
 
 ---
 
@@ -15,7 +49,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/englucasjsantana/">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
