@@ -19,7 +19,7 @@ Atuo na interseção entre **hardware e software**, com foco em automação, sis
 `Python` `C` `C++` `Java` `JavaScript`
 
 **Plataformas & Frameworks**
-`Arduino` `Raspberry Pi` `ROS 2`
+`Arduino` `Raspberry Pi` `ROS 2` `Linux`
 
 **CAD & Modelagem**
 `AutoCAD` `SolidWorks` `Revit` `Inventor`
