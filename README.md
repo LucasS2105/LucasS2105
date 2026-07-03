@@ -9,7 +9,7 @@
 
 ---
 
-Atuo na interseção entre **hardware e software**, com foco em automação, sistemas embarcados e otimização de processos industriais. Tenho experiência prática em montagem de sistemas, interpretação de desenhos técnicos e desenvolvimento de projetos conforme normas técnicas.
+Atuo na interseção entre **hardware e software**, com foco em automação, sistemas embarcados e robótica.
 
 ---
 
