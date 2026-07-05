@@ -54,3 +54,8 @@ Além da atuação técnica, exerci o cargo de **Diretor Presidente em Empresa J
 </a>
 
 ---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasS2105&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasS2105&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
