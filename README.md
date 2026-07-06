@@ -16,7 +16,7 @@ Atuo na interseção entre **hardware e software**, com foco em automação, sis
 ## 🔧 Stack Técnico
 
 **Linguagens**
-`Python` `C` `C++` `Java` `JavaScript`
+`Python` `C/C++` `Java` `JavaScript` `HTML` `CSS` 
 
 **Plataformas & Frameworks**
 `Arduino` `Raspberry Pi` `ROS 2` `Linux`
